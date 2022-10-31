@@ -39,7 +39,7 @@ down(){
   alert('drag')
 }
 scroll(){
-  alert("scrollung")
+  alert("sellect")
 }
 
 }
